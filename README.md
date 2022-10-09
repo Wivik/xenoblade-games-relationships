@@ -1,6 +1,6 @@
 # xenoblade-games-relationships
 
-A chart made with diagram.net to explain the relationship between the Xenoblade games posted for my [blog](https://blog.zedas.fr/posts/the-relations-of-xenoblade-games/].
+A chart made with diagram.net to explain the relationship between the Xenoblade games posted for my [blog](https://blog.zedas.fr/posts/the-relations-of-xenoblade-games/).
 
 ## Trademark
 
