@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T19:29:08.387Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="p1vZTOdLTv2jxenESkev" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T19:29:26.332Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="iv_kcTIk3KROxfEEqhXM" version="21.2.9" type="github">
   <diagram id="g0gpbgOEyBxve5Y06RnL" name="Page-1">
-    <mxGraphModel dx="1228" dy="1613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1830" dy="2279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-93" value="Xenoblade Chronicles 3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontStyle=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-164" y="1965" width="970" height="1275" as="geometry" />
+          <mxGeometry x="-164" y="1965" width="970" height="1875" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-61" value="Xenoblade Chronicles 2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontStyle=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="440" y="920" width="510" height="790" as="geometry" />
