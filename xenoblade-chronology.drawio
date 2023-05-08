@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T09:00:44.734Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Tr_ZDTkdr0BBkU5MX9Dg" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T18:52:20.393Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="z61isD8HNZnMDAC-s-U9" version="21.2.9" type="github">
   <diagram id="g0gpbgOEyBxve5Y06RnL" name="Page-1">
-    <mxGraphModel dx="1830" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1830" dy="2279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-1" value="" style="endArrow=oval;html=1;rounded=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=oval;startFill=1;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="720" as="sourcePoint" />
-            <mxPoint x="320" y="160" as="targetPoint" />
+            <mxPoint x="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-4" value="Prime Universe&lt;br style=&quot;font-size: 14px;&quot;&gt;21st Century" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" parent="NbJ8_3fw0q7Cs4NqjaX1-1" vertex="1" connectable="0">
@@ -31,55 +31,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-2" value="Xenoblade Games relation tree" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="75" y="60" width="500" height="30" as="geometry" />
+          <mxGeometry x="55" y="-140" width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=14;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="250" as="targetPoint" />
+            <mxPoint x="320" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-9" value="The Conduit is discovered in Africa" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="90" y="220" width="160" height="60" as="geometry" />
+          <mxGeometry y="100" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-12" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=14;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="330" as="targetPoint" />
+            <mxPoint x="320" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-11" value="The Rhadamanthus Orbital Station is built" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="90" y="300" width="160" height="60" as="geometry" />
+          <mxGeometry y="180" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=14;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="410" as="targetPoint" />
+            <mxPoint x="320" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-13" value="Creation of the Trinity Processors to maintain the Conduit" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="90" y="380" width="160" height="60" as="geometry" />
+          <mxGeometry y="260" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=14;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-15" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="490" as="targetPoint" />
+            <mxPoint x="320" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-15" value="The Rhadamanthus station is attacked by the Saviorite faction" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="90" y="460" width="160" height="60" as="geometry" />
+          <mxGeometry y="420" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=14;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="570" as="targetPoint" />
+            <mxPoint x="310" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-17" value="The scientific Klaus executes his plan to use the Conduit to open a new dimension gateway" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="50" y="540" width="200" height="60" as="geometry" />
+          <mxGeometry y="500" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-20" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=14;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="650" as="targetPoint" />
+            <mxPoint x="320" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-19" value="Klaus is interrupted by his colleague Galea but not it time" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="90" y="620" width="160" height="60" as="geometry" />
+          <mxGeometry y="580" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-24" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=14;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-23" target="NbJ8_3fw0q7Cs4NqjaX1-26" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-48" value="The other half of Klaus is reborn as the Architect" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="450" y="960" width="310" height="60" as="geometry" />
+          <mxGeometry x="450" y="960" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-55" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;rounded=0;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-50" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -208,7 +208,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-50" value="The Architect creates the Cloud of Sea and the Core Crystals to regenerate life" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="450" y="1040" width="310" height="60" as="geometry" />
+          <mxGeometry x="450" y="1040" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-56" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;rounded=0;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-51" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -216,7 +216,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-51" value="The first Core Crystals created the Titans, which started to create more life" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="450" y="1120" width="310" height="60" as="geometry" />
+          <mxGeometry x="450" y="1120" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-57" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;rounded=0;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-52" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -224,7 +224,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-52" value="The next Core Crystals created the Blades, a system to supervise the new human development" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="450" y="1200" width="310" height="60" as="geometry" />
+          <mxGeometry x="450" y="1200" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-58" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;rounded=0;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-53" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -232,7 +232,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-53" value="Almathus stole two of Trinity Processor Core Crystal and awaken Malos. He found later Addam who became Mythra&#39;s Driver" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="450" y="1280" width="310" height="60" as="geometry" />
+          <mxGeometry x="450" y="1280" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-59" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;rounded=0;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-54" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -248,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-64" value="The story of Xenoblade Chronicles 2 starts here" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="450" y="1470" width="350" height="60" as="geometry" />
+          <mxGeometry x="450" y="1470" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-71" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;rounded=0;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;" parent="1" source="NbJ8_3fw0q7Cs4NqjaX1-70" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -256,7 +256,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-70" value="The Architect dies following the death of Zanza&lt;br&gt;The Conduit disappears, the Rhadamanthus station collapses" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="450" y="1550" width="420" height="60" as="geometry" />
+          <mxGeometry x="450" y="1550" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-72" value="Parallel event" style="endArrow=oval;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;rounded=0;strokeColor=#d79b00;startArrow=oval;startFill=1;endFill=1;strokeWidth=3;fillColor=#ffe6cc;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -270,7 +270,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-73" value="The Titans converge into each other and form a unique continent" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="450" y="1629.71" width="310" height="60" as="geometry" />
+          <mxGeometry x="450" y="1629.71" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-75" value="Parallel event" style="endArrow=oval;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;rounded=0;strokeColor=#d79b00;startArrow=oval;startFill=1;endFill=1;strokeWidth=3;fillColor=#ffe6cc;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -426,7 +426,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbJ8_3fw0q7Cs4NqjaX1-117" value="This chart was made for the blog https://blog.zedas.fr&lt;br&gt;This content is licensed under CC-BY-SA - Sources available here :&amp;nbsp;https://github.com/Wivik/xenoblade-games-relationships&lt;br&gt;The Xenoblade games are a trademark of Nintendo and Monolith Software" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="90" width="870" height="70" as="geometry" />
+          <mxGeometry x="-70" y="-110" width="870" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iFHiLBqIQtuAE0wwK_Q7-1" value="The Exodus space colonization Project is launched" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="340" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iFHiLBqIQtuAE0wwK_Q7-2" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=14;fontColor=default;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iFHiLBqIQtuAE0wwK_Q7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="370" as="targetPoint" />
+            <mxPoint x="250" y="389.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
